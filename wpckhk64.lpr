@@ -1,6 +1,6 @@
 {
 wpckhk64
-Copyright © 2018-2022 terqüéz <gz0@ro.ru>
+Copyright © 2018, 2022 terqüéz <gz0@ro.ru>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

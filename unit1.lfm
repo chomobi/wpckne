@@ -1,11 +1,11 @@
 object MainForm: TMainForm
   Left = 789
-  Height = 262
+  Height = 276
   Top = 417
   Width = 254
   BorderWidth = 5
   Caption = 'wpckne v0.1.0'
-  ClientHeight = 262
+  ClientHeight = 276
   ClientWidth = 254
   Position = poDesktopCenter
   LCLVersion = '2.2.0.4'
@@ -111,11 +111,11 @@ object MainForm: TMainForm
     AnchorSideTop.Control = bGithub
     AnchorSideTop.Side = asrBottom
     Left = 5
-    Height = 120
+    Height = 139
     Top = 133
     Width = 240
     AutoSize = False
-    Caption = 'WPCKNE v0.1.0'#13#10'Copyright (C) 2018 terqüéz <gz0@ro.ru>'#13#10'License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.'#13#10'This is free software: you are free to change and redistribute it.'#13#10'There is NO WARRANTY, to the extent permitted by law.'
+    Caption = 'WPCKNE v0.1.0'#13#10'Copyright (C) 2018, 2022 terqüéz <gz0@ro.ru>'#13#10'License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.'#13#10'This is free software: you are free to change and redistribute it.'#13#10'There is NO WARRANTY, to the extent permitted by law.'
     WordWrap = True
   end
   object tGame: TTimer

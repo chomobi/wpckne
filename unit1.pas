@@ -1,6 +1,6 @@
 {
 wpckne
-Copyright © 2018-2022 terqüéz <gz0@ro.ru>
+Copyright © 2018, 2022 terqüéz <gz0@ro.ru>
 
 This file is part of wpckne.
 
